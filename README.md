@@ -1,9 +1,9 @@
 # Hi, I'm João Victor
 
-I build and run production software with AI agents. Founding engineer of FERRA, Computer Systems student at BCIT,
+I build and run production software with AI agents. Founding engineer of Ferra, Computer Systems student at BCIT,
 based in Vancouver. Open to developer roles in Vancouver and remote.
 
-## FERRA OS · [app.ferraia.com](https://app.ferraia.com)
+## Ferra · [app.ferraia.com](https://app.ferraia.com)
 
 One operations app for many small service businesses in Brazil: orders, cash, stock and the end of day close, for
 places that still run on paper and WhatsApp. Built solo since July 2026. The product code is private; this is what's
@@ -19,7 +19,7 @@ behind it:
 Claude Code is my engineering method, not autocomplete. Every decision is written down (206 architecture decision
 records so far), scripted guards refuse to deploy when a rule breaks, and test runs walk the whole flow with fictional
 businesses, logging what's right and what's wrong. Subagents get a model per task: cheap to read, stronger to build,
-strongest to review. In September 2026 that added up to 1,231 commits across the FERRA repositories.
+strongest to review. In September 2026 that added up to 1,231 commits across the Ferra repositories.
 
 ## Games
 
@@ -29,7 +29,7 @@ Google Play ([privacy policy](https://github.com/joaoferrari12/olympian-descent-
 ## Earlier work
 
 - [**Civitas**](https://github.com/joaoferrari12/civitas) (archived): a community decision app with an AI layer on the
-  Anthropic API that explains instead of persuading. NestJS, Postgres, Redis, Expo. What came before FERRA.
+  Anthropic API that explains instead of persuading. NestJS, Postgres, Redis, Expo. What came before Ferra.
 - [**angular-movie-browser**](https://github.com/joaoferrari12/angular-movie-browser): Angular 19 with a Cloudflare
   Worker keeping the API key off the browser ([live](https://joaoferrari12.github.io/angular-movie-browser/))
 - [**property-agency-api**](https://github.com/joaoferrari12/property-agency-api): Spring Boot REST API over the
