@@ -44,3 +44,5 @@ TypeScript · React · Angular · PostgreSQL / Supabase · Java / Spring Boot ·
 GitHub Actions · Claude Code
 
 Também falo português.
+
+También hablo español.
