@@ -3,11 +3,12 @@
 I build and run production software with AI agents. Founding engineer of Ferra, Computer Systems student at BCIT,
 based in Vancouver. Open to developer roles in Vancouver and remote.
 
-## Ferra · [app.ferraia.com](https://app.ferraia.com)
+## Ferra · [ferraia.com](https://ferraia.com)
 
 One operations app for many small service businesses in Brazil: orders, cash, stock and the end of day close, for
-places that still run on paper and WhatsApp. Built solo since July 2026. The product code is private; this is what's
-behind it:
+places that still run on paper and WhatsApp. Built solo since July 2026. The product code is private, but the product is not:
+[ferraia.com](https://ferraia.com) shows the real screens, and seven fictional businesses are live with their public
+customer pages, no account needed, for example [app.ferraia.com/p/forno-nove](https://app.ferraia.com/p/forno-nove). What's behind it:
 
 - **Front end:** React 19, Vite, TanStack Query, shadcn/ui, installable PWA
 - **Data:** Supabase Postgres, row level security keeping every company's data apart, 133 versioned migrations, Edge Functions
@@ -16,7 +17,7 @@ behind it:
 
 ## How I build with AI agents
 
-Claude Code is my engineering method, not autocomplete. Every decision is written down (206 architecture decision
+Claude Code is my engineering method, not autocomplete. Every decision is written down (208 architecture decision
 records so far), scripted guards refuse to deploy when a rule breaks, and test runs walk the whole flow with fictional
 businesses, logging what's right and what's wrong. Subagents get a model per task: cheap to read, stronger to build,
 strongest to review. In September 2026 that added up to 1,231 commits across the Ferra repositories.
