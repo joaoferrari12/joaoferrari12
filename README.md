@@ -29,6 +29,9 @@ Google Play ([privacy policy](https://github.com/joaoferrari12/olympian-descent-
 
 ## Earlier work
 
+- [**cambio**](https://github.com/joaoferrari12/cambio): daily Canadian dollar rates from the Bank of Canada, with
+  history charts, a converter and favourites. React 19, TanStack Query, Recharts, 16 tests, axe clean
+  ([live](https://joaoferrari12.github.io/cambio/))
 - [**Civitas**](https://github.com/joaoferrari12/civitas) (archived): a community decision app with an AI layer on the
   Anthropic API that explains instead of persuading. NestJS, Postgres, Redis, Expo. What came before Ferra.
 - [**angular-movie-browser**](https://github.com/joaoferrari12/angular-movie-browser): Angular 19 movie browser with
