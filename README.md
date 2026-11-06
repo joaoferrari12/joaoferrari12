@@ -30,13 +30,15 @@ Google Play ([privacy policy](https://github.com/joaoferrari12/olympian-descent-
 
 - [**Civitas**](https://github.com/joaoferrari12/civitas) (archived): a community decision app with an AI layer on the
   Anthropic API that explains instead of persuading. NestJS, Postgres, Redis, Expo. What came before Ferra.
-- [**angular-movie-browser**](https://github.com/joaoferrari12/angular-movie-browser): Angular 19 with a Cloudflare
-  Worker keeping the API key off the browser ([live](https://joaoferrari12.github.io/angular-movie-browser/))
+- [**angular-movie-browser**](https://github.com/joaoferrari12/angular-movie-browser): Angular 19 movie browser with
+  signals, an accessible poster-first UI and a Cloudflare Worker keeping the API key off the browser
+  ([live](https://joaoferrari12.github.io/angular-movie-browser/))
 - [**property-agency-api**](https://github.com/joaoferrari12/property-agency-api): Spring Boot REST API over the
   [java-property-agency](https://github.com/joaoferrari12/java-property-agency) domain
 - [**blog-database-sql**](https://github.com/joaoferrari12/blog-database-sql): MySQL schema and 14 analytical queries
-- [**petvida-website**](https://github.com/joaoferrari12/petvida-website): responsive static site, images cut from
-  ~18 MB to under 2 MB ([live](https://joaoferrari12.github.io/petvida-website/))
+- [**petvida-website**](https://github.com/joaoferrari12/petvida-website): seven-page site for Pet Vida, my family's
+  pet business in Salvador: plain HTML, CSS and JS, mobile-first, axe-core clean, WebP images cut from ~18 MB to
+  under 2 MB ([live](https://joaoferrari12.github.io/petvida-website/))
 
 ## Stack
 
