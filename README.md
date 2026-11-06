@@ -29,6 +29,13 @@ leaked-password test that never sends the password (k-anonymity against the Have
 TypeScript, no backend, 29 Vitest tests, 0 axe violations across 38 screens, 55.7 kB gzipped on first load.
 [Source](https://github.com/joaoferrari12/blindagem-digital).
 
+## Vancouver Public Art · [joaoferrari12.github.io/vancouver-public-art](https://joaoferrari12.github.io/vancouver-public-art/)
+
+Every public artwork in Vancouver on a map, live from the City's open data: 751 works filtered by kind, neighbourhood,
+decade and status, with the registry's descriptions and artist biographies joined in the browser, "near me" and a
+visited list. React 19, TanStack Query, React Router (filters in the URL), Leaflet; 25 tests, axe-core 0 violations
+on 12 screens in CI. [Source](https://github.com/joaoferrari12/vancouver-public-art).
+
 ## Games
 
 Small games in Godot 4, published early and measured with real players. Olympian Descent is in closed testing on
