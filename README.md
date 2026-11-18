@@ -1,6 +1,6 @@
 # Hi, I'm João Victor
 
-I build and run production software with AI agents. Founding engineer of Ferra, Computer Systems student at BCIT,
+I build and run production software with AI agents. Founder and developer of Ferra, Computer Systems student at BCIT,
 based in Vancouver. Open to developer roles in Vancouver and remote.
 
 ## Ferra · [ferraia.com](https://ferraia.com)
@@ -17,7 +17,7 @@ customer pages, no account needed, for example [app.ferraia.com/p/forno-nove](ht
 
 ## How I build with AI agents
 
-Claude Code is my engineering method, not autocomplete. Every decision is written down (208 architecture decision
+Claude Code is my working method, not autocomplete. Every decision is written down (209 architecture decision
 records so far), scripted guards refuse to deploy when a rule breaks, and test runs walk the whole flow with fictional
 businesses, logging what's right and what's wrong. Subagents get a model per task: cheap to read, stronger to build,
 strongest to review. In September 2026 that added up to 1,231 commits across the Ferra repositories.
