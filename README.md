@@ -22,6 +22,10 @@ records so far), scripted guards refuse to deploy when a rule breaks, and test r
 businesses, logging what's right and what's wrong. Subagents get a model per task: cheap to read, stronger to build,
 strongest to review. In September 2026 that added up to 1,231 commits across the Ferra repositories.
 
+The method is open source: [**metodo-agentic**](https://github.com/joaoferrari12/metodo-agentic) packages it as seven
+Claude Code skills you install with two commands (Apache-2.0). In its evals, answers passed 21 of 21 runs with the
+skills installed and 11 of 21 without them.
+
 ## Blindagem Digital · [joaoferrari12.github.io/blindagem-digital](https://joaoferrari12.github.io/blindagem-digital/)
 
 A 10-minute digital security check-up for everyday people, in Portuguese and English: a score, an action plan, and a
