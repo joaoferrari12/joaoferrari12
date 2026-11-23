@@ -1,4 +1,4 @@
-# Hi, I'm João Victor
+# Hi, I'm João Victor Ferrari
 
 I build and run production software with AI agents. Founder and developer of Sócia, Computer Systems student at BCIT,
 based in Vancouver. Open to developer roles in Vancouver and remote.
