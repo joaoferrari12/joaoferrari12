@@ -1,14 +1,17 @@
 # Hi, I'm João Victor
 
-I build and run production software with AI agents. Founder and developer of Ferra, Computer Systems student at BCIT,
+I build and run production software with AI agents. Founder and developer of Sócia, Computer Systems student at BCIT,
 based in Vancouver. Open to developer roles in Vancouver and remote.
 
-## Ferra · [ferraia.com](https://ferraia.com)
+I also take freelance work: fast websites and custom systems for small businesses. Work and prices:
+[joaoferrari-dev.pages.dev](https://joaoferrari-dev.pages.dev)
+
+## Sócia · [oisocia.com.br](https://oisocia.com.br)
 
 One operations app for many small service businesses in Brazil: orders, cash, stock and the end of day close, for
 places that still run on paper and WhatsApp. Built solo since July 2026. The product code is private, but the product is not:
-[ferraia.com](https://ferraia.com) shows the real screens, and seven fictional businesses are live with their public
-customer pages, no account needed, for example [app.ferraia.com/p/forno-nove](https://app.ferraia.com/p/forno-nove). What's behind it:
+[oisocia.com.br](https://oisocia.com.br) shows the real screens, and seven fictional businesses are live with their public
+customer pages, no account needed, for example [app.oisocia.com.br/p/forno-nove](https://app.oisocia.com.br/p/forno-nove). What's behind it:
 
 - **Front end:** React 19, Vite, TanStack Query, shadcn/ui, installable PWA
 - **Data:** Supabase Postgres, row level security keeping every company's data apart, 133 versioned migrations, Edge Functions
@@ -17,10 +20,10 @@ customer pages, no account needed, for example [app.ferraia.com/p/forno-nove](ht
 
 ## How I build with AI agents
 
-Claude Code is my working method, not autocomplete. Every decision is written down (209 architecture decision
+Claude Code is my working method, not autocomplete. Every decision is written down (210 architecture decision
 records so far), scripted guards refuse to deploy when a rule breaks, and test runs walk the whole flow with fictional
 businesses, logging what's right and what's wrong. Subagents get a model per task: cheap to read, stronger to build,
-strongest to review. In September 2026 that added up to 1,231 commits across the Ferra repositories.
+strongest to review. In September 2026 that added up to 1,231 commits across the Sócia repositories.
 
 The method is open source: [**metodo-agentic**](https://github.com/joaoferrari12/metodo-agentic) packages it as seven
 Claude Code skills you install with two commands (Apache-2.0). In its evals, answers passed 21 of 21 runs with the
@@ -51,7 +54,7 @@ Google Play ([privacy policy](https://github.com/joaoferrari12/olympian-descent-
   history charts, a converter and favourites. React 19, TanStack Query, Recharts, 16 tests, axe clean
   ([live](https://joaoferrari12.github.io/cambio/))
 - [**Civitas**](https://github.com/joaoferrari12/civitas) (archived): a community decision app with an AI layer on the
-  Anthropic API that explains instead of persuading. NestJS, Postgres, Redis, Expo. What came before Ferra.
+  Anthropic API that explains instead of persuading. NestJS, Postgres, Redis, Expo. What came before Sócia.
 - [**angular-movie-browser**](https://github.com/joaoferrari12/angular-movie-browser): Angular 19 movie browser with
   signals, an accessible poster-first UI and a Cloudflare Worker keeping the API key off the browser
   ([live](https://joaoferrari12.github.io/angular-movie-browser/))
